@@ -16,5 +16,5 @@ echo "" >> $BASHRC
 echo "# turn on color for terminal" >> $BASHRC
 echo "export CLICOLOR=1" >> $BASHRC
 echo "export LSCOLORS=GxFxCxDxBxegedabagaced" >> $BASHRC
-echo "export TERM=xterm-256color" >> $BASHRC
+#echo "export TERM=xterm-256color" >> $BASHRC
 echo "" >> $BASHRC
