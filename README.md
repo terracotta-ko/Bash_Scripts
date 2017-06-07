@@ -1,4 +1,5 @@
 # Scripts for Bash
 
-1. colors.sh is using to show color code of bash
-2. installScript folder has scripts for configuration and install some packages through HomeBrew
+* colors.sh: is using to show color code of bash 
+* checkFileExist.sh: check certain file exists or not
+* installScript folder: scripts for configuration and installing packages from HomeBrew
